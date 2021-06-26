@@ -1,0 +1,146 @@
+body
+{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #E4F9F5;
+    color: #40514E;
+}
+.topcontainer
+{
+    background-color: #EAF6F6;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+h1
+{
+    font-size: 5.625rem;
+    margin-top: 0;
+    padding-top: 10%;
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 0;
+    color: #66BFBF;
+   
+}
+h2
+{   
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2.5rem;
+    margin-top: 30px;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+
+
+.pro
+{
+    text-decoration: underline;
+    
+}
+.bottomcloud
+{
+    position: absolute;
+    left: 25%;
+}
+.topcloud
+{
+    position: absolute;
+    right: 25%;
+    padding-top: 5%;
+}
+hr
+{
+    border-color: gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+.descrp
+{
+    font-size: 1.8rem;
+}
+.algo
+{
+    background-color: cornflowerblue;
+}
+.footer-link
+{
+    color:#11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.footer-link:hover
+{
+    color: aqua;
+}
+.descrp
+{
+    color: #66BFBF;
+    font-weight: normal;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.web
+{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.algo
+{
+    width: 25%;
+    float: right;
+    margin-left: 10px;
+}
+.food
+{       float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+.prodesc
+{
+    margin: auto;
+    margin-bottom: 40px;
+    width: 25%;
+    line-height: 2;
+    
+    
+}
+.btn {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 15px;
+    background-color: #66BFBF;
+    border: solid #66BFBF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #D01E4E;
+    border: solid #DD380D 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ 
